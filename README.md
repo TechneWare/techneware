@@ -12,8 +12,6 @@ I’m a full-stack .NET developer with over 20 years of experience modernizing l
 - Write and optimize **SQL Server** queries, stored procedures, and reporting flows  
 - Explore new techniques through personal projects and coding challenges
 
-*Note: I do not currently have experience with CI/CD or containerization, but I’m actively learning about them through personal study.*
-
 ---
 
 ## 📂 About This GitHub
