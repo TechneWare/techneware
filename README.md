@@ -42,7 +42,7 @@ I use this space to practice modern syntax, test utility ideas, and explore algo
 
 ## 🧠 Professional Background
 
-- **Consultant / Developer** – Quatmann Consulting (2021–Present)  
+- **Consultant / Developer** – Quatmann Consulting (2021–2025)  
   Built internal grant management and reporting tools using **C#**, **ASP.NET**, and **SQL Server**.
   Cleaned and normalized existing data.
   Created data validation workflows and administrative features for public sector clients.
